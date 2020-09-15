@@ -13,7 +13,7 @@ Application written in JavaFX for managing tasks.
 
 ## Authors
 
-* **[GrzegorzKonopka]**(https://github.com/konopkagrzegorz)
+* [GrzegorzKonopka](https://github.com/konopkagrzegorz)
 
 ## License
 
