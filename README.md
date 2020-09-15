@@ -9,11 +9,11 @@ Application written in JavaFX for managing tasks.
 
 ## Sample usage
 
-![](https://github.com/konopkagrzegorz/ToDoList/todolist.gif )
+![](https://github.com/konopkagrzegorz/ToDoList/blob/master/todolist.gif)
 
 ## Authors
 
-* **Grzegorz Konopka**  - [GrzegorzKonopka](https://github.com/konopkagrzegorz)
+* **[GrzegorzKonopka]**(https://github.com/konopkagrzegorz)
 
 ## License
 
